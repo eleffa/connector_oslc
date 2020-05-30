@@ -36,3 +36,6 @@ Known bug
 08004 LI100: Number of licensed connections exceeded. This error is due to the license.
 
 
+Acknowledgment
+--------------
+This research work has been carried out in the framework of the Technological Research Institute SystemX, and therefore granted with public funds within the scope of the French Program "Investissements d’Avenir".
