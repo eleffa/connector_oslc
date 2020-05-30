@@ -1,4 +1,4 @@
-# connector_oslc
+# connector-oslc
 
 Context : Collaborative system engineering 
 ------------------------------------------
